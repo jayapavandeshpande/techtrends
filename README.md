@@ -1,2 +1,2 @@
 # techtrends
-Techtrends
+Techtrends project
